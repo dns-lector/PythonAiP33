@@ -33,6 +33,7 @@ LLM (ВММ) - великі мовні моделі - системи з прав
 https://jupyter.org/
 (!! в активованому віртуальному оточенні)
 > pip install jupyter
+> pip install numpy
 запуск сервера та блокноту
 > jupyter notebook
 
