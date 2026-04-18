@@ -34,6 +34,10 @@ https://jupyter.org/
 (!! в активованому віртуальному оточенні)
 > pip install jupyter
 > pip install numpy
+ > pip install pandas
+
+> pip freeze > libs.txt 
+
 запуск сервера та блокноту
 > jupyter notebook
 
