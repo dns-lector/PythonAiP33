@@ -33,10 +33,12 @@ LLM (ВММ) - великі мовні моделі - системи з прав
 https://jupyter.org/
 (!! в активованому віртуальному оточенні)
 > pip install jupyter
-> pip install numpy
- > pip install pandas
+ > pip install numpy
+  > pip install pandas
+   > pip install matplotlib
 
 > pip freeze > libs.txt 
+> pip install -r libs.txt
 
 запуск сервера та блокноту
 > jupyter notebook
