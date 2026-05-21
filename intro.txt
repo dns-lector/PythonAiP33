@@ -23,6 +23,7 @@ LLM (ВММ) - великі мовні моделі - системи з прав
 Підготовка: віртуальне оточення
 > cd ..                                у VSCode - переходимо "над" проєктом
 > python -m venv PythonAiP33           PythonAiP33 - назва проєкту
+&"C:/Program Files/python313/python.exe" -m venv PythonAiP33
 > cd PythonAiP33                       повертаємось у проєкт 
 > ./Scripts/Activate.ps1               активуємо оточення
 бажано зробити .gitignore, вилучити з репозиторію дані про оточення
@@ -38,6 +39,7 @@ https://jupyter.org/
    > pip install matplotlib
     > pip install -U scikit-learn
      > pip install torch
+      > pip install torchvision
 
 > pip freeze > libs.txt 
 > pip install -r libs.txt
