@@ -40,6 +40,8 @@ https://jupyter.org/
     > pip install -U scikit-learn
      > pip install torch
       > pip install torchvision
+       > pip install torchxrayvision
+        > pip install -U nltk
 
 > pip freeze > libs.txt 
 > pip install -r libs.txt
