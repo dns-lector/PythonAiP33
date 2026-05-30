@@ -42,6 +42,7 @@ https://jupyter.org/
       > pip install torchvision
        > pip install torchxrayvision
         > pip install -U nltk
+         > pip install gensim
 
 > pip freeze > libs.txt 
 > pip install -r libs.txt
